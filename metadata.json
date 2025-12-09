@@ -1,0 +1,7 @@
+{
+  "name": "Al-Rafidain Edu (Rabit)",
+  "description": "A premium, culturally immersive educational platform connecting Iraqi families, students, and schools. Features real-time tracking, AI tutoring, and seamless communication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
